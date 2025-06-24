@@ -28,5 +28,8 @@ This project uses Excel to analyze BMW vehicle sales in South Africa by model an
 - `BMW_Excel_trend.png`, `fuel_type_chart.png` – Screenshots of key charts
 
 ## 👩🏽‍💻 About Me
-**Asemahle Zide**   
+
+**Asemahle Zide**  
+📊 Data and Reporting Intern   
+🔗 [LinkedIn](https://www.linkedin.com/in/asemahle-zide-201063215/)     
 🔗 [GitHub Profile](https://github.com/Asemahlezide22)
